@@ -2,7 +2,7 @@
 This is my course project for Computer Graphics discipline.
 Browser for 3D objects in C# using only Windows Forms. Can only work with .obj files.
 
-CONTROLS
+# CONTROLS
 W - move forward, away from POV
 S - move backward, to POV
 A - move left
@@ -14,6 +14,7 @@ F - scale down
 Arrows + QE - rotation around local origin
 IJKL + UO - rotation fround global origin
 
+# /
 You can select a file using a button in top left corner. There are some samples in \KG_LR_2.2\Samples.
 The object can be rendered in orthoganal or perspective projections
 You can chose the way of handling invisible lines: Default (wireframe), Roberts' algorithm, Z-Buffer.
