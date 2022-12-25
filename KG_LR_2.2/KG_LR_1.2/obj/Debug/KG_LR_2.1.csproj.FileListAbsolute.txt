@@ -1,0 +1,23 @@
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2.1.csproj.AssemblyReference.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2.1.csproj.SuggestedBindingRedirects.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2_1.MainForm.resources
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1._2.Properties.Resources.resources
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2.1.csproj.GenerateResource.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2.1.csproj.CoreCompileInputs.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.exe
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.pdb
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe.config
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\bin\Debug\KG_LR_1.2.pdb
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2.1.csproj.CopyComplete
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe.config
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\bin\Debug\KG_LR_1.2.pdb
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2.1.csprojAssemblyReference.cache
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2_1.MainForm.resources
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1._2.Properties.Resources.resources
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2.1.csproj.GenerateResource.cache
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2.1.csproj.CoreCompileInputs.cache
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_2.1.csproj.CopyComplete
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.exe
+C:\Users\601-11\source\repos\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.pdb

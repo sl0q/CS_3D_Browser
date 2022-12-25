@@ -1,0 +1,26 @@
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\bin\Release\KG_LR_2.2.exe.config
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\bin\Release\KG_LR_2.2.exe
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\bin\Release\KG_LR_2.2.pdb
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\bin\Release\Matrix_lib.dll
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.AssemblyReference.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.SuggestedBindingRedirects.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2_1.MainForm.resources
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2._2.Properties.Resources.resources
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.GenerateResource.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.CoreCompileInputs.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.CopyComplete
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.exe
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.pdb
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\bin\Release\KG_LR_2.2.exe.config
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\bin\Release\KG_LR_2.2.exe
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\bin\Release\KG_LR_2.2.pdb
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\bin\Release\Matrix_lib.dll
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.AssemblyReference.cache
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.SuggestedBindingRedirects.cache
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2_1.MainForm.resources
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2._2.Properties.Resources.resources
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.GenerateResource.cache
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.CoreCompileInputs.cache
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.csproj.CopyComplete
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.exe
+F:\Prog\Projects\Misc\C#\KG_LR_2.2\KG_LR_1.2\obj\Release\KG_LR_2.2.pdb

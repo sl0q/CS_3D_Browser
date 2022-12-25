@@ -1,0 +1,46 @@
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe.config
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\bin\Debug\KG_LR_1.2.pdb
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\bin\Debug\Matrix_lib.pdb
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.AssemblyReference.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.SuggestedBindingRedirects.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1._2.Properties.Resources.resources
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.GenerateResource.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.CoreCompileInputs.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.CopyComplete
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.exe
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.pdb
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1._2.MainForm.resources
+E:\Inf\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csprojAssemblyReference.cache
+E:\Inf\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1._2.MainForm.resources
+E:\Inf\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1._2.Properties.Resources.resources
+E:\Inf\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.GenerateResource.cache
+E:\Inf\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.CoreCompileInputs.cache
+E:\Inf\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.exe
+E:\Inf\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.pdb
+E:\Inf\KG_LR_1.2\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe.config
+E:\Inf\KG_LR_1.2\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe
+E:\Inf\KG_LR_1.2\KG_LR_1.2\bin\Debug\KG_LR_1.2.pdb
+E:\Inf\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.CopyComplete
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe.config
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\bin\Debug\KG_LR_1.2.pdb
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1._2.MainForm.resources
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1._2.Properties.Resources.resources
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.GenerateResource.cache
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.CoreCompileInputs.cache
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.CopyComplete
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.exe
+C:\Users\601-11\source\repos\KG_LR_1.2\KG_LR_1.2\obj\Debug\KG_LR_1.2.pdb
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe.config
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\bin\Debug\KG_LR_1.2.exe
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\bin\Debug\KG_LR_1.2.pdb
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.AssemblyReference.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.SuggestedBindingRedirects.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1._2.MainForm.resources
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1._2.Properties.Resources.resources
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.GenerateResource.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.CoreCompileInputs.cache
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.csproj.CopyComplete
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.exe
+F:\Prog\Projects\Unik\Year 2.2\C#\KG_LR_2.1\KG_LR_1.2\obj\Debug\KG_LR_1.2.pdb
