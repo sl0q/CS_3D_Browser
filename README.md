@@ -12,7 +12,7 @@ Space - move up
 R - scale up  
 F - scale down  
 Arrows + QE - rotation around local origin  
-IJKL + UO - rotation fround global origin  
+IJKL + UO - rotation around global origin  
 
 # /
 You can select a file using a button in top left corner. There are some samples in \KG_LR_2.2\Samples.
