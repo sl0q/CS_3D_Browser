@@ -22,4 +22,4 @@ You can chose the way of handling invisible lines: Default (wireframe), Roberts'
 Roberts' algorithm works properly only on objects with only convex edges.
 Z-buffer can be laggy if it has to paint over a big chunk of screen.
 
-For matrix operations i used my own library. Implemented some basic operations there, so I could use general */-+ operators with 2D arrays.
+For matrix operations I used my own marix library. Implemented some basic operations there, so I could use general */-+ operators with 2D arrays.
