@@ -25,6 +25,7 @@ Z-buffer can be laggy if it has to paint over a big chunk of screen.
 For matrix operations I used my own marix library. Implemented some basic operations there, so I could use general */-+ operators with 2D arrays.
 
 Example of wireframe rendering mode
+
 <img alt="WFrender" src="https://github.com/user-attachments/assets/f4a24a7b-4cf6-41d3-96c7-df498dc88722" width=600/>
 
 ---
